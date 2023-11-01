@@ -1,1 +1,1 @@
-console.log("Az na maika ti...")
+console.log("Hello World")
