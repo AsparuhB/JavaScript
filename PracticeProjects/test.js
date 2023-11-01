@@ -1,0 +1,1 @@
+console.log("Az na maika ti...")
