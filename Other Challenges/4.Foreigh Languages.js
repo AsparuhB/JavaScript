@@ -34,8 +34,8 @@ function countryLanguage(country) {
       break;
     default:
       console.log("unknown");
+      break;
   }
 }
-
 
 countryLanguage("Bulgaria");
